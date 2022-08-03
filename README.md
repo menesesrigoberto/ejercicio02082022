@@ -8,6 +8,8 @@ git clone https://github.com/menesesrigoberto/ejercicio02082022.git
 
 
 ## Se debe crear una base de datos con los nombres que se encuentran en el archivo models/conexion.php
+La base de datos se encuentra en el siguiente archivo bd/bdejercicio.sql
+<br>
 $this->servidor = "localhost";
 <br>
 $this->bd = "bdejercicio";
